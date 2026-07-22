@@ -5,6 +5,9 @@
 ARKHE STUDIO es una plataforma web desarrollada bajo una línea estética editorial, minimalista y de alto impacto visual. El proyecto busca proyectar sofisticación en el área de la arquitectura residencial, el diseño de interiores y la estimación precisa de costes de obra. La interfaz prioriza la legibilidad, la jerarquía tipográfica contrastada y una experiencia de navegación fluida.
 
 ---
+## Visualización del proyecto
+
+https://arkhestudio-01.netlify.app/
 
 ## Estructura y Secciones del Proyecto
 
